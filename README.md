@@ -9,14 +9,13 @@ DigiKeyboard Library Modified by ARMUS
 
 key =   command,
 
-
 Left control        CONTROL_L
 Left SHIFT          SHIFT_L  
 Left ALT            ALT_L    
 Left OS             OS_L     
 Right control       CONTROL_R
 Right SHIFT         SHIFT_R  
-Right ALT           ALT_R    
+Right ALT           ALT_R 
 
 A =  _A,
 B =  _B,
@@ -83,8 +82,11 @@ Z =  _Z,
      UP        
      DOWN      
      LEFT      
-     RIGHT     
+     RIGHT    
+     
 for android
+
+
      Apps      
      Home      
      Back      
