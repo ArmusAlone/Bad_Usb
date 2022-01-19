@@ -7,7 +7,7 @@ DigiKeyboard Library Modified by ARMUS
 
 
 
-key     command
+key =   command,
 
 
 Left control        CONTROL_L
@@ -17,42 +17,43 @@ Left OS             OS_L
 Right control       CONTROL_R
 Right SHIFT         SHIFT_R  
 Right ALT           ALT_R    
-A       _A 
-B       _B 
-C       _C 
-D       _D 
-E       _E 
-F       _F 
-G       _G 
-H       _H 
-I       _I 
-J       _J 
-K       _K 
-L       _L 
-M       _M 
-N       _N 
-O       _O 
-P       _P 
-Q       _Q 
-R       _R 
-S       _S 
-T       _T 
-U       _U 
-V       _V 
-W       _W 
-X       _X 
-Y       _Y 
-Z       _Z 
-1       _1 
-2       _2 
-3       _3 
-4       _4 
-5       _5 
-6       _6 
-7       _7 
-8       _8 
-9       _9 
-0       _0 
+
+A =  _A,
+B =  _B,
+C =  _C,
+D =  _D,
+E =  _E,
+F =  _F,
+G =  _G,
+H =  _H,
+I =  _I,
+J =  _J,
+K =  _K,
+L =  _L,
+M =  _M,
+N =  _N,
+O =  _O,
+P =  _P,
+Q =  _Q,
+R =  _R,
+S =  _S,
+T =  _T,
+U =  _U,
+V =  _V,
+W =  _W,
+X =  _X,
+Y =  _Y,
+Z =  _Z,
+1 =  _1,
+2 =  _2,
+3 =  _3,
+4 =  _4,
+5 =  _5,
+6 =  _6,
+7 =  _7,
+8 =  _8,
+9 =  _9,
+0 =  _0,
 
     Enter     
     Space     
