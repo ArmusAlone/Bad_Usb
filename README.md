@@ -70,7 +70,6 @@ Z =  _Z,
      F10       
      F11       
      F12       
-
      Esc       
      Tab       
      Backspace 
