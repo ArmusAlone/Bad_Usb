@@ -94,6 +94,7 @@ for android
      Massages  
      SAVE   
 for windows
+
      Run       
      Lock      
      File      
